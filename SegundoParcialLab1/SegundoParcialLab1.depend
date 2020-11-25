@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1606315997 source:c:\users\kevin\desktop\segundoparciallab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bicicleta.h"
+	"controller.h"
+	"LinkedList.h"
+
+1606310306 source:c:\users\kevin\desktop\segundoparciallab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606308841 c:\users\kevin\desktop\segundoparciallab1\linkedlist.h
+
+1606315420 source:c:\users\kevin\desktop\segundoparciallab1\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validations.h"
+
+1606308597 c:\users\kevin\desktop\segundoparciallab1\validations.h
+
+1606316195 source:c:\users\kevin\desktop\segundoparciallab1\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"Controller.h"
+	"validations.h"
+
+1606315939 c:\users\kevin\desktop\segundoparciallab1\bicicleta.h
+	"LinkedList.h"
+
+1606315055 c:\users\kevin\desktop\segundoparciallab1\controller.h
+
+1606316331 source:c:\users\kevin\desktop\segundoparciallab1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"bicicleta.h"
+	"Controller.h"
+	"LinkedList.h"
+	"parser.h"
+	"validations.h"
+
+1606315492 c:\users\kevin\desktop\segundoparciallab1\parser.h
+
+1606315492 source:c:\users\kevin\desktop\segundoparciallab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+
